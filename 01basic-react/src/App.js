@@ -1,8 +1,8 @@
-import Name from './main'
+import Message from "./Message";
 
 function App() {
   return (
-      <Name />
+      <Message />
   );
 }
 
